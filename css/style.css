@@ -1,0 +1,18 @@
+.paddingzero {
+    padding: 0;
+}
+.image-size {
+    color: #e2432a;
+}
+h3 {
+    color: #28b148;
+}
+p {
+    color: #2c6e39;
+}
+.slide-height {
+    height: 179px; !important;
+}
+a {
+    outline: 0;
+}
